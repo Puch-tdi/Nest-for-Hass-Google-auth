@@ -6,7 +6,7 @@ Many thanks for RedDragon who initiated this and had it working in the first pla
 
 Can anyone please try the Nest Camera, i don't have one.
 
-Validated test show it will work with more than one thermostat in your account, it uses the info from the Nest site.
+Validated test shows it will work with more than one thermostat in your account, it uses the info from the Nest site.
 Therefor it should work with the camera also, but i want confirmation for that.
 It should also work with Nest E-learning thermostat.
 
