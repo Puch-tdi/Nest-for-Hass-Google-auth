@@ -2,9 +2,11 @@
   "domain": "nesthome",
   "name": "Nest Home",
   "documentation": "https://custom-components.github.io/badnest",
+                   "https://github.com/Puch-tdi/Nest-for-Hass-Google-auth",
   "dependencies": [],
   "codeowners": [
-    "@USA-RedDragon"
+    "@USA-RedDragon",
+    "Puch-tdi"
   ],
   "homeassistant": "0.107.7",
   "requirements": []
