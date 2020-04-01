@@ -1,5 +1,7 @@
 Make use of the limited (basic) stuff Nest Home has to offer by google auth.
 
+Read info.md for the howto to get your google auth codes.
+
 Since i don't have a nest developer account i cannot tell the difference between them, i can only guess based on the repository of the original integration.
 
 Many thanks for RedDragon who initiated this and had it working in the first place, i only modified the code trying to get more info out of google-nest. Still working on that, i'll keep you posted when there is any progress.
