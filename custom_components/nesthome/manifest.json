@@ -1,8 +1,7 @@
 {
   "domain": "nesthome",
   "name": "Nest Home",
-  "documentation": "https://custom-components.github.io/badnest",
-                   "https://github.com/Puch-tdi/Nest-for-Hass-Google-auth",
+  "documentation": "https://github.com/Puch-tdi/Nest-for-Hass-Google-auth",
   "dependencies": [],
   "codeowners": [
     "@USA-RedDragon",
