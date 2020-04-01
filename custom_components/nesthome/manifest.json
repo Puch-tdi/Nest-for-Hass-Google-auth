@@ -1,0 +1,11 @@
+{
+  "domain": "nesthome",
+  "name": "Nest Home",
+  "documentation": "https://custom-components.github.io/badnest",
+  "dependencies": [],
+  "codeowners": [
+    "@USA-RedDragon"
+  ],
+  "homeassistant": "0.107.7",
+  "requirements": []
+}

@@ -1,0 +1,4 @@
+{
+    "name": "nest-home",
+    "domains": ["climate", "camera", "sensor"]
+}
